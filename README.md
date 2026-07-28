@@ -1,8 +1,5 @@
 # Hi, I'm Palak 👋
-
-Mechanical Engineering student at **IIT Jammu** who took a hard left into AI and never looked back. I spend most of my time building things that use LLMs to do real work — agents that act, pipelines that ship, and the occasional CNN when the mood strikes.
-
-I like the boring-but-hard parts: making an agent actually reliable, getting a service to run unattended without falling over, and turning "wouldn't it be cool if" into something that quietly runs twice a day.
+I like building complete, working systems and making the design decisions from scratch — mostly LLM-based agents and backend services, along with some machine learning work.
 
 ---
 
@@ -35,4 +32,4 @@ Beyond what's public here, I've built production OCR pipelines during an ML inte
 
 ---
 
-*Currently: making agents more reliable, one merged PR at a time.* ⚡
+*Currently: working on AI agents, APIs and LLMs* ⚡
